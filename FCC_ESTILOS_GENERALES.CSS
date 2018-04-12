@@ -1,7 +1,7 @@
-<style> 
+
 .login-page .buttonbar{				 
 	display: none; 
-} 
+}
 
 .form .req-msg {
 	display: none; 
@@ -10,10 +10,6 @@
 .alert.error{ 	
 	display: none; 
 }		
-
-</style>
-
-<style>
 
 .estilo-menu {
 	style-type: none;
@@ -47,6 +43,6 @@
 	background-color: #fae9e5;
 	position: relative;
     font-size: 14px;
-    margin: px;   
+    margin: 0px;   
 }
-</style>
+
